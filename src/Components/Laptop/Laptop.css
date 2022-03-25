@@ -1,0 +1,25 @@
+.laptops-img-container{
+    width: 640px;
+    height: 520px;
+    border: 2px solid orangered;
+    border-radius: 10px;
+    padding: 15px 0px;
+    position: relative;
+}
+
+.laptops-img-container img {
+    border-radius: 10px;
+}
+
+.btn-cart {
+    width: 100%;
+    background-color: skyblue;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    /* position: absolute; */
+    /* bottom: 0; */
+}
+.btn-cart:hover{
+    background-color: darkgoldenrod;
+    transition: 1s;
+}

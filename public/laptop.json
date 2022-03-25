@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "price": "45000",
+        "name": "Dell 001",
+        "img": "https://img.freepik.com/free-psd/front-view-laptop-mock-up-interior-decoration_23-2148690919.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "2",
+        "price": "55000",
+        "name": "Hp 001",
+        "img": "https://img.freepik.com/free-photo/laptop-with-blank-black-screen-white-table_53876-97915.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "3",
+        "price": "35000",
+        "name": "lenovo 001",
+        "img": "https://img.freepik.com/free-photo/laptop-wooden-table_53876-20635.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "4",
+        "price": "43000",
+        "name": "Dell 1345",
+        "img": "https://img.freepik.com/free-psd/close-up-floating-laptop-mockup_308775-7.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "5",
+        "price": "67000",
+        "name": "mackbook 001",
+        "img": "https://img.freepik.com/free-vector/laptop-isolated-white-background-illustration_34950-664.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "6",
+        "price": "25000",
+        "name": "acer 001",
+        "img": "https://img.freepik.com/free-psd/laptop-mock-up_1310-197.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "7",
+        "price": "56000",
+        "name": "Asus 001",
+        "img": "https://img.freepik.com/free-psd/high-view-desk-concept-with-laptop_23-2148300257.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "8",
+        "price": "95000",
+        "name": "Walton 001",
+        "img": "https://img.freepik.com/free-psd/mockup-gaming-laptop-with-rgb-led-keyboard-glow_74058-461.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "9",
+        "price": "75000",
+        "name": "Doel 001",
+        "img": "https://img.freepik.com/free-psd/laptop-screen-psd-mockup-gray-background_53876-116370.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    },
+    {
+        "id": "10",
+        "price": "39000",
+        "name": "Mini Dell 001",
+        "img": "https://img.freepik.com/free-photo/mockup-image-woman-typing-digital-tablet-with-blank-white-desktop-screen-as-computer-pc-cafe_9563-18095.jpg?size=626&ext=jpg&ga=GA1.2.1140721705.1648222658"
+    }
+]
