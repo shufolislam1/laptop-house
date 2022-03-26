@@ -15,8 +15,19 @@ const Shop = () => {
 
     const selectedItems = (laptop) =>{
         const newCart = [...cart , laptop];
-        setCart(newCart)
+        if(newCart.length === 5){
+            return false;
+        }
+        setCart(newCart);
     }
+
+    const random = () =>{
+        
+    }
+
+   const chooseAgain = () =>{
+        setCart([]);
+   }
     return ( 
         <div className='shop-container'>
             <div className='laptops-container'>
@@ -30,6 +41,12 @@ const Shop = () => {
             </div>
             <div className='cart-container'>
                 <Select cart={cart}></Select>
+                <button onClick={random}>
+                    Choose 1 for me
+                </button>
+                <button onClick={chooseAgain}>
+                    Choose Again
+                </button>
             </div>
         </div>
     );
