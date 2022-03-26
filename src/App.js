@@ -1,5 +1,5 @@
 import './App.css';
-import Laptop from './Components/Laptop/Laptop';
+import Questions from './Components/Questions/Questions';
 import Shop from './Components/Shop/Shop';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h2>Laptop House</h2>
       <Shop></Shop>
-      {/* <Laptop></Laptop> */}
+      <Questions></Questions>
     </div>
   );
 }

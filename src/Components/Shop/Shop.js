@@ -27,7 +27,10 @@ const Shop = () => {
 
    const random = (cart, setCart) =>{
         const rand = Math.floor(Math.random() * cart.length);
-        alert(setCart(cart[rand].price))
+        // console.log(rand);
+        const getValue = setCart([true, cart[rand].name]);
+        console.log(getValue);
+        // alert(getValue);
    }
     return ( 
         <div className='shop-container'>
