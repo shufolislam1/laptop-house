@@ -8,8 +8,8 @@ const Laptop = (props) => {
     return (
         <div className='laptops-img-container'>
             <img src={img} alt="" />
-            <h2>Name: {name}</h2>
-            <p>Price: {price}</p>
+            <h4>Name: {name}</h4>
+            <p>Price: ${price}</p>
             <button onClick={ () => props.selectedItems(props.laptop)} className='btn-cart'>
                 <p className='btn-text'>Add to Cart</p>
                 <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>   

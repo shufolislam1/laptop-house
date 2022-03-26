@@ -6,7 +6,7 @@ const Select = (props) => {
 
     let Display = cart.map(info => {
         return (
-            <h1>{info.name}</h1>
+            <h4>{info.name}</h4>
         )
     })
 
